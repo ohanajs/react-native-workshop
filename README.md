@@ -10,7 +10,7 @@ Requirements: XCode and Homebrew
 
 Install dependencies:
 * `brew install node`
-* `brew install --HEAD watchman` (docs say you might encounter a bug if you do not install this).
+* `brew install watchman` (docs say you might encounter a bug if you do not install this).
 * `npm -g install react-native-cli` (do NOT install react-native directly).
 
 Create project:
