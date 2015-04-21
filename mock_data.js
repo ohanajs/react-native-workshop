@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     "geometry": {
       "latitude": 21.297842,
