@@ -3,6 +3,11 @@ React Native workshop for Ohana JS.
 
 This readme will walk you through creating an app with a map. Note that this assumes iOS since that's all that's available at the time of this writing.
 
+Slides:
+----------------------
+http://slides.com/georgelee/react-native/live
+
+
 Getting Started:
 ----------------------
 
