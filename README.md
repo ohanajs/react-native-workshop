@@ -7,6 +7,12 @@ Slides:
 ----------------------
 http://slides.com/georgelee/react-native/live
 
+HITraffic API
+----------------------
+URL: http://hitraffic-api.herokuapp.com/v1/
+
+URL is subject to change. Most of the routes in the (HITraffic README)[https://github.com/hitraffic/api-server/] are implemented except for incidents/latest. The repo will be updated with the latest source code soon.
+
 
 Getting Started:
 ----------------------
